@@ -14,6 +14,7 @@ This app allows us to shoot a image from camera and upload that image inside the
 
 ## Dependencies
 ```
+image_picker: ^0.5.3+1
 camera:
 path_provider:
 path:
