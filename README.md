@@ -1,16 +1,28 @@
 # cameraimage_upload
 
-A new Flutter project.
+Live camera preview in Flutter app
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+[![BUILD](https://img.shields.io/badge/Build-Passing-<COLOR>.svg)](https://github.com/vijayinyoutube/cameraimage_upload)  [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-orange/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-blue.svg)](https://github.com/vijayinyoutube/cameraimage_upload)
 
-A few resources to get you started if this is your first Flutter project:
+## Flutter
+[Flutter](https://flutter.dev/) is a crossplatfrom UI tool kit that helps in developing native Android and iOS app from a single code base.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## App
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app allows us to shoot a image from camera and upload that image inside the app.
+
+## Dependencies
+```
+camera:
+path_provider:
+path:
+```
+## YouTube
+
+Visit My Channel for more Flutter Tutorials 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ 
+
+
+
+
+
